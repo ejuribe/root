@@ -1,4 +1,4 @@
 root
 ====
 
-Master - root repository
+root repository
